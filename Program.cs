@@ -14,7 +14,7 @@ namespace ProyectoAcumulado
 
 
             Console.WriteLine(Perro.nombre);
-            Console.WriteLine("Este es mi proyecto");
+            Console.WriteLine("Este es mi proyecto practica");
 
             Console.ReadLine();
         }
