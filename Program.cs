@@ -14,9 +14,6 @@ namespace ProyectoAcumulado
 
             Console.WriteLine( $"El gato se llama {Minino.nombre} y es de raza {Minino.raza}");
 
-     
-            Console.WriteLine("Este es mi proyecto practica");
-
             Console.ReadLine();
         }
     }
