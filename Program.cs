@@ -14,12 +14,10 @@ namespace ProyectoAcumulado
 
 
             Console.WriteLine(Perro.nombre);
-<<<<<<< HEAD
+
             Console.WriteLine(Perro.peso);
-            Console.WriteLine("Este es mi proyecto");
-=======
+     
             Console.WriteLine("Este es mi proyecto practica");
->>>>>>> bbb1005b688957897acf1f21e9b2ac77f1c86637
 
             Console.ReadLine();
         }
