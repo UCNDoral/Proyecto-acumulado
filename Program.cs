@@ -10,12 +10,11 @@ namespace ProyectoAcumulado
     {
         static void Main(string[] args)
         {
-            Animal Perro = new Animal("Porqui", 25.5);
+            Gato Minino = new Gato("Minino",25.5,"Come cuando hay!" );
+
+            Console.WriteLine( $"El gato se llama {Minino.nombre} y es de raza {Minino.raza}");
 
 
-            Console.WriteLine(Perro.nombre);
-
-            Console.WriteLine(Perro.peso);
      
             Console.WriteLine("Este es mi proyecto practica");
 
